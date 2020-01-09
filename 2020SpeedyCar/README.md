@@ -1,0 +1,2 @@
+The 2020SpeedyCar performed above average after 1 hour of training. However, as expected, the some of the optimizations in its reward function resulted in a highly non-linear learning rate and worse results than the unoptimized first iteration. To improve results, we likely need to increase the value of its stop condition hyperparameter. Here is its reward graph compared to an average learning rate:
+![2020SpeedyCar Reward Graph](https://i.imgur.com/gBj5soG.png)
